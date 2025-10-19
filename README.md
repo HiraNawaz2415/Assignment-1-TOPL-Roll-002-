@@ -31,7 +31,7 @@ knowledge to extract meaningful insights. (Some suggestion are given in Appendix
 to create informative graphs and charts that illustrate your findings. 
 **4. Document Your Work:** Copy your Python code and the generated visualizations into a 
 Microsoft Word document. Include explanations for your code and analysis. 
-Submission:
- Submit your Microsoft Word document containing the code, output, and analysis to the LMS.
- By completing this assignment, you will gain practical experience in data parsing, analysis, and 
+#### Submission:
+ - Submit your Microsoft Word document containing the code, output, and analysis to the LMS.
+ - By completing this assignment, you will gain practical experience in data parsing, analysis, and 
 visualization using Python, which are essential skills for research programming
